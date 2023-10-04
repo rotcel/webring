@@ -2,12 +2,12 @@
     "title": "GEEK ROCK RING",
     "description": "A webring for fans of geek rock.",
     "image": "freakazoid.jpg",
-    "url": "https://webringdemo.netlify.com",
+    "url": "https://geekrockring.netlify.com",
     "repo": "https://github.com/maxboeck/webring",
     "admins": [
         {
-            "name": "Max Böck",
-            "url": "https://github.com/maxboeck"
+            "name": "Rottie",
+            "url": "https://rottie.neocities.org"
         }
     ]
 }
